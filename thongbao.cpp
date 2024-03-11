@@ -4,9 +4,9 @@
 
 int main() {
     std::cout << "Hello World!";
-    std::cout << "Hello World!";
-    std::cout << "Hello World!";
     std::cout << "Hello Github!";
     std::cout << "Hello Main!";
+    std::cout << "Hello World!";
+    std::cout << "Hello World!";
     return 0;
 }
