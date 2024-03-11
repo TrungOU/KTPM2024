@@ -5,6 +5,6 @@
 int main() {
     std::cout << "Hello World!";
     std::cout << "Hello Github!";
-    std::cout << "Hello Tester1!";
+    std::cout << "Hello Main!";
     return 0;
 }
